@@ -22,3 +22,14 @@
 [Ссылка на наш сайт](https://mguu.ru/?ysclid=m4r4ps9ld9503799235)
 
 [image](https://avatars.mds.yandex.net/i?id=02a0d438915e4409b6779abb9faf64f6cfcca7e5-5380211-images-thumbs&n=13)
+
+
+|Заголовок 1|Заголовок 2|
+|------------|----------|
+|Ячейка 1|Ячейка 2|
+|Ячейка 3|Ячейка 4|
+
+
+Это математическая формула $\bar{x} =\frac{\sum_{i=1}^n x_i}{n}$$
+
+<p align=center>Это текст в разметке <b>HTML</b></p>
